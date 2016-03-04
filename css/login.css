@@ -1,0 +1,22 @@
+body {
+    background-color: #F2F2F2;
+    padding-top: 10%;
+}
+
+.container {
+    width: 30%;
+}
+
+.form-login-heading {
+    background-color: #67DFF0;
+    color: #fff;
+    margin-top: 0;
+    padding: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.9rem;
+}
+
+form {
+    background-color: #fff;
+}
