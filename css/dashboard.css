@@ -25,13 +25,8 @@ li {
     list-style-type: none;
 }
 
-a {
-    color: #fff;
-}
-
 a:hover {
     text-decoration: none;
-    color: #fff;
 }
 
 .header {
@@ -55,7 +50,10 @@ a:hover {
     top: 5px;
     width: 80px;
     text-align: center;
+}
 
+.logo b {
+    color: #fff;
 }
 
 .top-menu li a {
@@ -97,4 +95,57 @@ a:hover {
 #main-content {
     padding: 20px;
     margin-left: 200px;
+}
+
+.box1 {
+    color: #989898;
+    text-align: center;
+}
+
+.box1 span {
+    font-size: 4rem;
+}
+
+h4 {
+    color: #989898;
+}
+
+.buttons a {
+    margin-right: 10px;
+}
+
+.showback {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0px 3px 5px grey;
+}
+
+.ds {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.ds h3 {
+    color: #fff;
+    background-color: #9C4C9D;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+.thumb {
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.thumb i {
+    color: #fff;
+}
+
+.thumb span {
+    background-color: #68DFF0;
+    display: inline-block;
 }

@@ -23,13 +23,8 @@ li {
     list-style-type: none;
 }
 
-a {
-    color: #fff;
-}
-
 a:hover {
     text-decoration: none;
-    color: #fff;
 }
 
 .header {
@@ -53,7 +48,10 @@ a:hover {
     top: 5px;
     width: 80px;
     text-align: center;
+}
 
+.logo b {
+    color: #fff;
 }
 
 .top-menu li a {
@@ -71,6 +69,7 @@ a:hover {
     color: #fff;
     width: 200px;
     border-top: 1px solid #000;
+    float: left;
 
 }
 
@@ -93,7 +92,9 @@ a:hover {
 
 #main-content {
     padding: 20px;
+    margin-left: 200px;
 }
+
 
 .showback {
     background-color: #fff;

@@ -25,13 +25,8 @@ li {
     list-style-type: none;
 }
 
-a {
-    color: #fff;
-}
-
 a:hover {
     text-decoration: none;
-    color: #fff;
 }
 
 .header {
@@ -55,7 +50,10 @@ a:hover {
     top: 5px;
     width: 80px;
     text-align: center;
+}
 
+.logo b {
+    color: #fff;
 }
 
 .top-menu li a {
@@ -97,4 +95,12 @@ a:hover {
 #main-content {
     padding: 20px;
     margin-left: 200px;
+}
+
+.wrapper {
+    float: right;
+}
+
+.photo {
+    margin-bottom: 20px;
 }
